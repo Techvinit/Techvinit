@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Techvinit
-- 👀 I’m interested in java developer
-- 🌱 I’m currently learning java developer
-- 💞️ I’m looking to collaborate on java community
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning Devops
+- 💞️ I’m looking to collaborate on Devops community
 - 📫 How to reach me 
 
 <!---
